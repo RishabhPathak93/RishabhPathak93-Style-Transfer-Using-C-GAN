@@ -144,7 +144,20 @@ Checkpoints for generators (`genh.pth.tar`, `genz.pth.tar`) and discriminators a
 Visual results of the model’s transformation are saved in the `saved_images/` directory during training. Here are examples:
 
 - **Horse-to-Zebra:**
-  ![Horse to Zebra](example_images/horse_to_zebra.png)
+  ![Horse to Zebra]([example_images/horse_to_zebra.png](https://ibb.co/yFbcMHY
+https://ibb.co/Jtw4FyS
+https://ibb.co/MCN856T
+https://ibb.co/2dNC76M
+https://ibb.co/vsMBVbj
+https://ibb.co/B6JPX16
+https://ibb.co/5jCvt83
+https://ibb.co/1M9LzWM
+https://ibb.co/tHC6f4J
+https://ibb.co/7yPFdxX
+https://ibb.co/2ZRf87X
+https://ibb.co/HzmxkLC
+https://ibb.co/p3fgp84
+https://ibb.co/8jh9PB4))
 
 - **Zebra-to-Horse:**
   ![Zebra to Horse](example_images/zebra_to_horse.png)
