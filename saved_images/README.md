@@ -143,9 +143,7 @@ Visual results of the model’s transformation are saved in the `saved_images/` 
   ![Zebra to Horse](https://i.ibb.co/fCcHrSG/zebra-1200.png)
   ![Zebra to Horse](https://i.ibb.co/G2gtbf9/zebra-800.png)
   ![Zebra to horse](https://i.ibb.co/5KCfYWq/zebra-600.png)
-  ![Zebra to horse](https://i.ibb.co/5KCfYWq/zebra-400.png)
-  ![Zebra to horse](https://i.ibb.co/5KCfYWq/zebra-200.png)
-
+  ![Zebra to horse](https://i.ibb.co/Fh71vKD/zebra-200.png)
   
 
 ---
